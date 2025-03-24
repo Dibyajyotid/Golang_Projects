@@ -1,0 +1,14 @@
+Operating System:- windows
+Hostname is:- DibyaJ
+System Architecture:- amd64
+CPU INFO:- [{"cpu":0,"vendorId":"GenuineIntel","family":"205","model":"","stepping":0,"physicalId":"BFEBFBFF000806D1","coreId":"","cores":12,"modelName":"11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz","mhz":2688,"cacheSize":0,"flags":[],"microcode":""}]
+CPU COUNTS:- 12
+Virtual Memory Details:- {"total":16948453376,"available":7447674880,"used":9500778496,"usedPercent":56,"free":7447674880,"active":0,"inactive":0,"wired":0,"laundry":0,"buffers":0,"cached":0,"writeback":0,"dirty":0,"writebacktmp":0,"shared":0,"slab":0,"sreclaimable":0,"sunreclaim":0,"pagetables":0,"swapcached":0,"commitlimit":0,"committedas":0,"hightotal":0,"highfree":0,"lowtotal":0,"lowfree":0,"swaptotal":0,"swapfree":0,"mapped":0,"vmalloctotal":0,"vmallocused":0,"vmallocchunk":0,"hugepagestotal":0,"hugepagesfree":0,"hugepagesize":0}
+Current Disk Details:- {"path":"/","fstype":"","total":152043515904,"free":23860330496,"used":128183185408,"usedPercent":84.30690690481968,"inodesTotal":0,"inodesUsed":0,"inodesFree":0,"inodesUsedPercent":0}
+Network Details:- Name: Ethernet, MAC: d4:93:90:16:d1:b2
+Name: Local Area Connection* 1, MAC: 60:a5:e2:c8:b8:a2
+Name: Local Area Connection* 2, MAC: 62:a5:e2:c8:b8:a1
+Name: Wi-Fi 2, MAC: 60:a5:e2:c8:b8:a1
+Name: Loopback Pseudo-Interface 1, MAC: 
+
+Host Uptime:- 0 days, 02 hours, 46 minutes, 56 seconds
