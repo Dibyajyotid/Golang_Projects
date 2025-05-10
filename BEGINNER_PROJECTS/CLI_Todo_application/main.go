@@ -12,6 +12,6 @@ func main() {
 
 	cmdFlags := NewCmd()
 	cmdFlags.Execute(&todos)
-	
+
 	storage.Save(todos)
 }
