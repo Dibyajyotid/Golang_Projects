@@ -1,0 +1,15 @@
+| Function  | Purpose                                                       |
+| --------- | ------------------------------------------------------------- |
+| `make`    | Allocates slices, maps, or channels                           |
+| `new`     | Allocates memory (returns pointer)                            |
+| `len`     | Returns the length of a slice, array, string, map, or channel |
+| `cap`     | Returns the capacity of a slice, array, or channel            |
+| `append`  | Adds elements to a slice                                      |
+| `copy`    | Copies elements from one slice to another                     |
+| `delete`  | Removes a key from a map                                      |
+| `complex` | Constructs a complex number                                   |
+| `real`    | Gets the real part of a complex number                        |
+| `imag`    | Gets the imaginary part of a complex number                   |
+| `close`   | Closes a channel                                              |
+| `panic`   | Stops execution and begins panicking                          |
+| `recover` | Catches a panic (used inside deferred functions)              |
